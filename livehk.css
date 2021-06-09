@@ -1,0 +1,84 @@
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+<style type="text/css" media="screen">
+	#header {background-color:#0a0a0a;}
+	#nav-main {background-color:#0a0202;}
+	#nav-main .nav-main {border-left: 1px solid #000000; border-right: 1px solid #282020;}
+	#nav-main .nav-main > li, #nav-main .nav-main > ul > .page_item {border-left: 1px solid #282020; border-right: 1px solid #000000;}
+	#top-bar {background-color:#222222;}
+	#bottom-bar {background-color:#222222;}
+	#main {background-color:#0a0a0a;}
+	.blog-view, .single-view, .author-info, .archive-info, .form-404 {background-color:#0a0a0a;}
+	.blog-view.sticky {background-color:#0a0505;}
+	.frontier-widget {background-color:#0a0a0a;}
+	.blog-view, .comment-author-admin > .comment-body, .bypostauthor > .comment-body {border-top: 6px solid #000000;}
+	.page-nav > *, .comment-nav > *, .author-info .title, .comment-reply-link, .widget-title,
+	.widget_search .search-submit, .widget_calendar caption {background-color:#000000;}
+	.genericon {color:#000000;}
+	a {color:#1bdff9;}
+	a:hover {color:#00e9ff;}
+</style> 
+
+<style type="text/css">
+            * {
+                font-family: Arial !important;
+            }
+            html, body {
+                margin: 0 !important;
+                padding: 0 !important;
+                background-color: #000000 !important;
+            }
+            .bg-black {
+                background-color: #000000 !important;
+            }
+            .bg-custom {
+                background: linear-gradient(to bottom, #bdf9a9 0%, #78d160 17%, #5bf450 50%, #3ac345 51%, #41d641 59%, #5eef4a 71%, #3cc23a 84%, #318b25 100%);
+            }
+            .card.card-result {
+                width: 360px !important;
+                min-width: 360px !important;
+                max-width: 360px !important;
+            }
+            .card.card-result,
+            .card.card-result .card-body {
+                border-radius: 5px;
+            }
+            .card.card-result .card-body .card-title {
+                border: 1px solid #ffffff;
+                font-weight: bold;
+            }
+            .banner-box p {
+                margin: 0 !important;
+            }
+            .banner-box a {
+                display: block !important;
+            }
+            .banner-box img {
+                width: 130px;
+                height: auto !important;
+                margin: 0 !important;
+            }
+            table tbody tr td {
+                vertical-align: middle !important;
+            }
+            .text-small {
+                font-size: 12px;
+            }
+            .text-gold {
+                color: maroon !important;
+                font-weight: bold !important;
+            }
+        </style>
