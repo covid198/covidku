@@ -1,0 +1,50 @@
+ <style type="text/css">
+            * {
+                font-family: Arial !important;
+            }
+            html, body {
+                margin: 0 !important;
+                padding: 0 !important;
+                background-color: #000000 !important;
+            }
+            .bg-black {
+                background-color: #000000 !important;
+            }
+            .bg-custom {
+                background: linear-gradient(to bottom, #bdf9a9 0%, #78d160 17%, #5bf450 50%, #3ac345 51%, #41d641 59%, #5eef4a 71%, #3cc23a 84%, #318b25 100%);
+            }
+            .card.card-result {
+                width: 360px !important;
+                min-width: 360px !important;
+                max-width: 360px !important;
+            }
+            .card.card-result,
+            .card.card-result .card-body {
+                border-radius: 5px;
+            }
+            .card.card-result .card-body .card-title {
+                border: 1px solid #ffffff;
+                font-weight: bold;
+            }
+            .banner-box p {
+                margin: 0 !important;
+            }
+            .banner-box a {
+                display: block !important;
+            }
+            .banner-box img {
+                width: 130px;
+                height: auto !important;
+                margin: 0 !important;
+            }
+            table tbody tr td {
+                vertical-align: middle !important;
+            }
+            .text-small {
+                font-size: 12px;
+            }
+            .text-gold {
+                color: maroon !important;
+                font-weight: bold !important;
+            }
+        </style>
