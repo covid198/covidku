@@ -109,7 +109,7 @@ section.content {
 	min-height: 400px;
 }
 section.content .card.card-result {
-	max-width: 340px;
+	max-width: 360px;
 	margin: 0 auto;
 	border-radius: 8px;
 	background: #222222;
